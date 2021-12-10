@@ -1,1 +1,2 @@
 "# BookStore-Back" 
+![](CORS.PNG)
